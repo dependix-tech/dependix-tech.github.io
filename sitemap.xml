@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dependix-tech.github.io/posts/auto-tagging-automation/</loc>
+    <loc>http://localhost:1313/posts/auto-tagging-automation/</loc>
     <lastmod>2025-10-24T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://dependix-tech.github.io/tags/automation/</loc>
+    <loc>http://localhost:1313/tags/automation/</loc>
     <lastmod>2025-10-24T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://dependix-tech.github.io/tags/aws/</loc>
+    <loc>http://localhost:1313/tags/aws/</loc>
     <lastmod>2025-10-24T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://dependix-tech.github.io/tags/cost-optimization/</loc>
+    <loc>http://localhost:1313/tags/cost-optimization/</loc>
     <lastmod>2025-10-24T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://dependix-tech.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-24T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://dependix-tech.github.io/tags/lambda/</loc>
+    <loc>http://localhost:1313/tags/lambda/</loc>
     <lastmod>2025-10-24T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://dependix-tech.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-10-24T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://dependix-tech.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-24T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://dependix-tech.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

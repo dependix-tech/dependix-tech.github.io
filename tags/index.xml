@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dependix Cloud Blog</title>
-    <link>https://dependix-tech.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Dependix Cloud Blog</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Oct 2025 10:00:00 +0800</lastBuildDate>
-    <atom:link href="https://dependix-tech.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automation</title>
-      <link>https://dependix-tech.github.io/tags/automation/</link>
+      <link>http://localhost:1313/tags/automation/</link>
       <pubDate>Fri, 24 Oct 2025 10:00:00 +0800</pubDate>
-      <guid>https://dependix-tech.github.io/tags/automation/</guid>
+      <guid>http://localhost:1313/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>AWS</title>
-      <link>https://dependix-tech.github.io/tags/aws/</link>
+      <link>http://localhost:1313/tags/aws/</link>
       <pubDate>Fri, 24 Oct 2025 10:00:00 +0800</pubDate>
-      <guid>https://dependix-tech.github.io/tags/aws/</guid>
+      <guid>http://localhost:1313/tags/aws/</guid>
       <description></description>
     </item>
     <item>
       <title>Cost Optimization</title>
-      <link>https://dependix-tech.github.io/tags/cost-optimization/</link>
+      <link>http://localhost:1313/tags/cost-optimization/</link>
       <pubDate>Fri, 24 Oct 2025 10:00:00 +0800</pubDate>
-      <guid>https://dependix-tech.github.io/tags/cost-optimization/</guid>
+      <guid>http://localhost:1313/tags/cost-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Lambda</title>
-      <link>https://dependix-tech.github.io/tags/lambda/</link>
+      <link>http://localhost:1313/tags/lambda/</link>
       <pubDate>Fri, 24 Oct 2025 10:00:00 +0800</pubDate>
-      <guid>https://dependix-tech.github.io/tags/lambda/</guid>
+      <guid>http://localhost:1313/tags/lambda/</guid>
       <description></description>
     </item>
   </channel>
